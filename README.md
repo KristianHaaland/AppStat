@@ -1,1 +1,5 @@
 # AppStat
+
+This project is in correspondance with the Applied Statistics course in EURECOM Engineering School, Sophia Antipolis France. 
+
+The report analyzes the evolution of CO$_2$ emissions per capita across four country groups: industrialized, developing, emerging, and newly industrialized (NICs) - from 1800 to 2022. The bootstrap method is used to estimate group means and 95% confidence intervals. The method performs reliably across most cases, except for industrialized countries in 1850 and NICs in 2000, where small sample sizes led to unstable distributions. Results show a decline in emissions from industrialized countries in recent decades, while emissions from developing countries continue to rise. This results in a flattening of global mean emissions. Looking ahead, emissions from developing countries are expected to increase unless preventative measures are taken—emphasizing the need for sustainable development strategies that reduce emissions without hindering economic growth.
